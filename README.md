@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">I'm Gabriela, Full Stack Developer. I'm currently deepening my knowledge in QA Testing and backend tools.</h3>
+<h3 align="left">I'm Gabriela Cunarro, Full Stack Developer. I'm currently deepening my knowledge in QA Testing and backend tools.</h3>
 &emsp;
 
 -------------------
